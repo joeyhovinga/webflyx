@@ -1,0 +1,29 @@
+[33mcommit 9c001362baff591a73a21c39ac24c92d410ca63f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd_classics[m[33m)[m
+Author: joeyhovinga <joey_hovinga@hotmail.com>
+Date:   Wed May 6 20:06:19 2026 +0200
+
+    E: added content of contents.md
+
+[33mcommit 88919f1bf5c6329451c5257eb07ffd4a1451c28f[m
+Author: joeyhovinga <joey_hovinga@hotmail.com>
+Date:   Mon May 4 20:07:22 2026 +0200
+
+    D: add classics.csv
+
+[33mcommit 8c9dac288fc5fc1ebeda5d135bb2cdeab4e6b636[m[33m ([m[1;32mmain[m[33m)[m
+Author: joeyhovinga <joey_hovinga@hotmail.com>
+Date:   Thu Apr 23 22:02:45 2026 +0200
+
+    C: add quotes
+
+[33mcommit b32782dbcfd0bd0575c9a0ece4305a6e58df523f[m
+Author: joeyhovinga <joey_hovinga@hotmail.com>
+Date:   Thu Apr 23 21:29:44 2026 +0200
+
+    B: add titles
+
+[33mcommit eca9be804f7cd07a82507dca5daccc90d2ad5d89[m
+Author: joeyhovinga <joey_hovinga@hotmail.com>
+Date:   Sat Apr 18 17:02:01 2026 +0200
+
+    A: add contents.md
